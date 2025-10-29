@@ -3,15 +3,14 @@
   <b>Data Scientist | Agentic AI Engineer | Multimodal Systems Creator</b>
 </p>
 
----
-
-### ⚡ About Me
-Seasoned <b>Data Scientist</b> with 4+ years delivering **Agentic AI**, **RAG systems**, and **interactive dashboards**.  
-I turn **data, AI, and diagrams** into actionable insights and productivity boosts 🚀.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Intelligence...;Building+Agentic+AI+Solutions...;Creating+Interactive+Dashboards..." alt="Typing SVG"/>
+</p>
 
 ---
 
 ### 🛠️ Skills & Tech
+
 <p align="center">
   <a href="https://openai.com/research/"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge&animation=spin" /></a>
   <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white&style=for-the-badge&animation=spin" /></a>
@@ -23,28 +22,33 @@ I turn **data, AI, and diagrams** into actionable insights and productivity boos
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Featured Projects
 
-#### 🤖 Agentic Knowledge Management
-**Stack:** FastAPI, React, LangChain, Azure AI, OpenAI Agent SDK  
-- Multimodal RAG chatbot for enterprise knowledge  
-- +30% efficiency, -20% errors, +25% productivity  
+<div align="center">
 
-#### 📊 AI-Infused Weight Dashboard
-**Stack:** Plotly Dash, PostgreSQL, PandasAI, Azure App Service  
-- Interactive real-time dashboards for design insights  
+**Agentic Knowledge Management**  
+<sub>AI Architect | FastAPI, React, LangChain, Azure AI, OpenAI Agent SDK</sub>  
+<img src="https://img.shields.io/badge/Efficiency-30%25-brightgreen?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Errors-20%25-red?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Productivity-25%25-blue?style=for-the-badge" />  
 
-#### 🧩 Engineering Diagram Assistant
-**Stack:** Azure Vision, OCR, Knowledge Graph, LangChain  
-- Contextual Q&A and visual reasoning for diagrams  
+**AI-Infused Weight Dashboard**  
+<sub>Data Scientist | Plotly Dash, PostgreSQL, PandasAI, Azure App Service</sub>  
+<img src="https://img.shields.io/badge/Interactive-Dashboards-orange?style=for-the-badge" />  
 
-#### ⚡ SRE AIOps & GenAI
-**Stack:** Python, Terraform, Ansible, Azure OpenAI, PEFT, LlamaIndex  
-- Automated monitoring, root cause analysis, and GenAI PoCs  
+**Engineering Diagram Assistant**  
+<sub>AI Architect | Azure Vision, OCR, Knowledge Graph, LangChain</sub>  
+<img src="https://img.shields.io/badge/Contextual-Q&A-yellow?style=for-the-badge" />  
+
+**SRE AIOps & GenAI**  
+<sub>Generative AI Developer | Python, Terraform, Ansible, Azure OpenAI, PEFT, LlamaIndex</sub>  
+<img src="https://img.shields.io/badge/Automation-RootCauseAnalysis-blueviolet?style=for-the-badge" />  
+
+</div>
 
 ---
 
-### 🎓 Education & Certs
+### 🎓 Education & Certifications
 **M.Sc ML & AI** — Liverpool John Moores University  
 **PG Diploma AI/ML** — IIIT Bangalore (3.83/4)  
 **B.Tech Petroleum Engg** — UPES Dehradun  
@@ -57,10 +61,10 @@ I turn **data, AI, and diagrams** into actionable insights and productivity boos
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/shivambahuguna"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&animation=spin" /></a>
-  <a href="https://www.linkedin.com/in/shivambahuguna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&animation=spin" /></a>
+  <a href="https://github.com/Shivam26102022"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&animation=spin" /></a>
+  <a href="https://www.linkedin.com/in/shivambahuguna88/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&animation=spin" /></a>
   <a href="mailto:shivambahuguna88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&animation=spin" /></a>
   <a href="https://shivam26102022.github.io/Shivam-Portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=googlechrome&style=for-the-badge&animation=spin" /></a>
 </p>
