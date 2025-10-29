@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Skills & Tech
+### 🛠️ Skills & Technologies
 
 <p align="center">
   <a href="https://openai.com/research/"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge&animation=spin" /></a>
@@ -49,14 +49,15 @@
 ---
 
 ### 🎓 Education & Certifications
-**M.Sc ML & AI** — Liverpool John Moores University  
-**PG Diploma AI/ML** — IIIT Bangalore (3.83/4)  
-**B.Tech Petroleum Engg** — UPES Dehradun  
+**M.Sc in ML & AI** — Liverpool John Moores University  
+**PG Diploma in AI/ML** — IIIT Bangalore (CGPA: 3.83/4)  
+**B.Tech Petroleum Engineering** — UPES Dehradun  
 
 <p align="center">
   <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS%20ML-FF9900?logo=amazonaws&style=for-the-badge&animation=shine" /></a>
   <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazonaws&style=for-the-badge&animation=shine" /></a>
   <a href="https://cloud.google.com/certification/"><img src="https://img.shields.io/badge/Google%20ACE-4285F4?logo=googlecloud&style=for-the-badge&animation=shine" /></a>
+  <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Six%20Sigma-6C8CBF?logo=coursera&style=for-the-badge&animation=shine" /></a>
 </p>
 
 ---
@@ -74,3 +75,40 @@
 <p align="center">
   <i>“Agentic Intelligence isn’t built — it’s orchestrated.”</i>
 </p>
+
+---
+
+### 💼 Professional Summary
+
+**Shivam Bahuguna** – Data Scientist | Agentic AI Engineer  
+📧 shivambahuguna88@gmail.com | 🇸🇬 +65 8710 1444 | 🇮🇳 +91 97195 08006  
+
+A seasoned Data Scientist with 4+ years of experience delivering AI solutions that drive business growth. Expert in building **multimodal AI systems, agentic workflows, and interactive dashboards**, leveraging both research and industry-grade AI techniques. Passionate about **optimizing operations, automating workflows, and innovating intelligent systems**.
+
+---
+
+### 🏆 Key Achievements
+
+- Developed an **Intelligent Knowledge Management System** improving operational efficiency by 30%, reducing errors by 20%, and boosting productivity by 25%.  
+- Built **interactive dashboards and AI-infused visualization tools** for real-time insights.  
+- Engineered **multimodal AI assistants** for engineering diagrams with OCR, knowledge graphs, and contextual Q&A.  
+- Automated ML pipelines, MLOps workflows, and cloud deployments using Azure ML, GitHub Actions, and CI/CD practices.  
+- Applied transfer learning and PEFT to enhance model adaptability across diverse domains.  
+- Recognized with **TCS GEMs Award** and contributed research chapters to **Taylor & Francis publications**.  
+
+---
+
+### 💡 Core Philosophy
+- Continuous Learning | Problem-Solving | Impact-Driven Solutions | Collaborative Innovation
+
+---
+
+### ⚡ Interests & Hobbies
+- **Sports:** Football, Cricket, Snooker  
+- **Technology:** UI Customization, Emerging Tech Exploration  
+- **Community:** Voluntary Social Service  
+
+---
+
+### 🌍 Languages
+- English | Hindi
