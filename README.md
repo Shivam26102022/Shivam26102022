@@ -31,11 +31,39 @@
 | **🖼 Engineering Diagram Assistant** | AI Architect | Azure Vision, OCR, Knowledge Graph, LangChain <br> 🟡 Contextual Q&A, Visual Reasoning |
 | **🤖 SRE AIOps & GenAI** | Generative AI Developer | Python, Terraform, Ansible, Azure OpenAI, PEFT, LlamaIndex <br> 🟣 Automation & Root Cause Analysis |
 
-> ✅ Notes: Using **emojis + colored shields** makes it visually appealing while fully Markdown-compatible.
+---
+
+### 💼 Work Experience
+
+- **🏢 Seatrium, Singapore** — *Data Scientist* (Mar 2024 – Present)  
+  - 🧠 Developed Agentic Knowledge Management System, boosting operational efficiency by 30%, reducing errors by 20%, and increasing productivity by 25%.  
+  - 📊 Built interactive AI-powered dashboards for real-time analytics and decision-making.  
+  - 🤖 Engineered multimodal AI assistants capable of understanding and interacting with engineering diagrams using Azure Vision and LangChain.  
+  - ☁️ Deployed AI solutions across departments using Azure AI, MCP, and RAG frameworks to streamline workflows.  
+
+- **🏢 Tata Consultancy Services, Pune, India** — *System Engineer* (Oct 2021 – Mar 2024)  
+  - ⚡ Automated AIOps frameworks for proactive incident management, reducing manual toil by 30% and improving MTTR by 20%.  
+  - 🤖 Developed and deployed Generative AI PoCs across audio, video, and text using NLP, PEFT (LoRA/QLoRA), RAG, and LlamaIndex.  
+  - 💾 Built and optimized scalable data pipelines using Mallion, Snowflake, and ETL best practices.  
+  - 🔍 Improved system uptime by 20% through monitoring, optimization, and stakeholder communication.  
+  - 📈 Enhanced AI model accuracy by integrating AutoML, GPT-3, PaLM, and deep learning techniques.  
+
+- **🎯 Key Achievements**  
+  - Deployed AI-driven automation in customer support, reducing response times by 40%.  
+  - Created interactive dashboards & visualizations using Plotly Dash, Power BI, and Streamlit.  
+  - Contributed research chapters in Taylor & Francis publications.  
 
 ---
 
-### 🎓 Certifications
+### 🎓 Education
+
+- **M.Sc ML & AI** — Liverpool John Moores University (2025-2026)  
+- **PG Diploma AI/ML** — IIIT Bangalore, CGPA 3.83/4 (2024-2025)  
+- **B.Tech Petroleum Engg** — UPES Dehradun, CGPA 7.28/10 (2017-2021)  
+
+---
+
+### 🏆 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20ML-FF9900?logo=amazonaws&style=for-the-badge" />
@@ -46,21 +74,25 @@
 
 ---
 
-### 💼 Work Experience (Timeline Style)
+### 🔬 Research & Publications
 
-- **Seatrium, Singapore** — Data Scientist (Mar 2024 – Present)  
-  - Developed Agentic Knowledge Management System, improved efficiency by 30%  
-  - Built AI-powered dashboards for real-time analytics  
-  - Engineered multimodal AI assistants for diagrams  
+- Contributed research chapters on **Medicinal & Psychedelic Mushrooms** for Taylor & Francis publications.  
+- Explored **AI-infused predictive modeling for FPSO module weights**.  
+- Published work on **Agentic AI systems and multimodal knowledge extraction**.  
 
-- **Tata Consultancy Services, Pune** — System Engineer (Oct 2021 – Mar 2024)  
-  - Automated AIOps frameworks reducing manual toil by 30%  
-  - Developed GenAI PoCs with NLP, PEFT, and LlamaIndex  
-  - Built scalable data pipelines with Mallion, Snowflake, ETL best practices  
+---
+
+### 🎯 Interests
+
+- ⚽ Sports: Football, Cricket, Snooker  
+- 💻 Technology: UI Customization, New Tech Exploration  
+- 🌱 Community: Voluntary Social Service  
+- 📚 Research & AI Innovations  
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://github.com/Shivam26102022"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/shivambahuguna88/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
