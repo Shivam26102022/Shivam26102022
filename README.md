@@ -1,113 +1,101 @@
-<!-- =============================== HEADER =============================== -->
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#4B8BBE;">Shivam Bahuguna</span>
-</h1>
+<!-- ------------- BEGIN README ------------- -->
 
-<p align="center">
-  <b>
-    Data Scientist • Agentic AI Engineer • Multimodal Systems Creator
-  </b>
-</p>
+<!-- ------------- CSS for animations, hover-spin & floating cards ------------- -->
+<style>
+/* Spin badges on hover */
+a[href*="shields.io"] img {
+  transition: transform .4s;
+}
+a[href*="shields.io"]:hover img {
+  transform: rotate(360deg);
+}
 
-<!-- animated typing banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&color=00F0FF&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligence…;Building+Agentic+AI+Solutions…;Creating+Interactive+Dashboards…" alt="Animated typing banner"/>
-</p>
+/* Gradient animated header text */
+@keyframes gradientText {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+h1 {
+  background: linear-gradient(270deg, #ff7f50, #00ffff, #ff69b4, #7fff00);
+  background-size: 800% 800%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientText 8s ease infinite;
+}
 
-<hr/>
+/* Floating animation for project cards */
+.project-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+  border-radius: 12px;
+  padding: 1.2rem;
+  margin: 1rem 0;
+  background: #0b111f;
+  color: #fff;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.3);
+}
+.project-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 8px 30px rgba(0,0,0,0.6);
+}
 
-<!-- =============================== LIVE STATS =============================== -->
-<div align="center">
+/* Typing effect for summary and projects */
+.typing {
+  border-right: .1em solid #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: typing 3s steps(80, end), blink-caret .75s step-end infinite;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #fff; }
+}
+</style>
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam26102022&show_icons=true&theme=radical&hide_border=true)](https://github.com/Shivam26102022)
+<h1 align="center">🌟 Shivam Bahuguna – Data Scientist & AI MLOps Engineer</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam26102022&langs_count=6&theme=radical&hide_border=true)](https://github.com/Shivam26102022)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivam26102022&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-<hr/>
-
-<!-- =============================== SKILLS =============================== -->
-<h2 align="center">🛠️ <span style="color:#FF9E2C;">Skills & Tech</span></h2>
-
-<p align="center">
-  <a href="https://openai.com/research/"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://azure.microsoft.com/en-us/services/machine-learning/"><img src="https://img.shields.io/badge/Azure%20AI-008AD7?logo=microsoftazure&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://terraform.io/"><img src="https://img.shields.io/badge/Terraform-008080?logo=terraform&logoColor=white&style=for-the-badge" /></a>
-</p>
-
-<hr/>
-
-<!-- =============================== PROJECTS =============================== -->
-<h2 align="center">🚀 <span style="color:#00B8D4;">Featured Projects</span></h2>
-
-<div align="center">
-
-### **Agentic Knowledge Management**
-_🧠 AI Architect | FastAPI, React, LangChain, Azure AI, OpenAI Agent SDK_
-![Efficiency 30%](https://img.shields.io/badge/Efficiency-30%25-brightgreen?style=for-the-badge)
-![Errors 20%](https://img.shields.io/badge/Errors-20%25-red?style=for-the-badge)
-![Productivity 25%](https://img.shields.io/badge/Productivity-25%25-blue?style=for-the-badge)
-
----
-
-### **AI‑Infused Weight Dashboard**
-_📊 Data Scientist | Plotly Dash, PostgreSQL, PandasAI, Azure App Service_
-![Interactive Dashboards](https://img.shields.io/badge/Interactive-Dashboards-orange?style=for-the-badge)
-
----
-
-### **Engineering Diagram Assistant**
-_🔍 AI Architect | Azure Vision, OCR, Knowledge Graph, LangChain_
-![Contextual Q&A](https://img.shields.io/badge/Contextual-Q&A-yellow?style=for-the-badge)
+<p align="center"><em class="typing">Turning data into a moving story – one line of code at a time.</em></p>
 
 ---
 
-### **SRE AIOps & GenAI**
-_🤖 Generative AI Developer | Python, Terraform, Ansible, Azure OpenAI, PEFT, LlamaIndex_
-![Automation RootCauseAnalysis](https://img.shields.io/badge/Automation-RootCauseAnalysis-blueviolet?style=for-the-badge)
+### 📫 Contact
+- 📧 Email: shivambahuguna88@gmail.com  
+- ✈️ Singapore: +65 87101444  
+- 🇮🇳 India: +91‑9719508006  
+- 💼 LinkedIn: [linkedin.com/in/shivambahuguna88/](https://www.linkedin.com/in/shivambahuguna88/)  
+- 🎨 Portfolio: [shivam26102022.github.io](https://shivam26102022.github.io/Shivam-Portfolio/index.html)  
+- 🐙 GitHub: [Shivam26102022](https://github.com/Shivam26102022)
 
-</div>
+---
 
-<hr/>
-
-<!-- =============================== EDUCATION =============================== -->
-<h2 align="center">🎓 <span style="color:#9B59B6;">Education & Certifications</span></h2>
-
-| Degree | Institution | Grade | Year |
-|--------|-------------|-------|------|
-| **M.Sc. ML & AI** | Liverpool John Moores University | — | — |
-| **PG Diploma AI/ML** | IIIT Bangalore | 3.83/4 | — |
-| **B.Tech. Petroleum Engg** | UPES Dehradun | — | — |
+## 🎯 Quick Stats
 
 <p align="center">
-  <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS%20ML-FF9900?logo=amazonaws&style=for-the-badge&animation=shine" /></a>
-  <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazonaws&style=for-the-badge&animation=shine" /></a>
-  <a href="https://cloud.google.com/certification/"><img src="https://img.shields.io/badge/Google%20ACE-4285F4?logo=googlecloud&style=for-the-badge&animation=shine" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3.9%2C3.10-blue?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Azure%20%26%20AWS-Cloud-2ea44f?style=for-the-badge&logo=azure&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Generative%20AI-🤖%20LLaMa%20%26%20GPT-ff7f00?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/LangChain-🧠%20RAG-ff9800?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-7057ff?style=for-the-badge"></a>
 </p>
 
-<hr/>
+---
 
-<!-- =============================== CONNECTIONS =============================== -->
-<h2 align="center">🌐 <span style="color:#E67E22;">Connect With Me</span></h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/Shivam26102022"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&animation=spin" /></a>
-  <a href="https://www.linkedin.com/in/shivambahuguna88/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&animation=spin" /></a>
-  <a href="mailto:shivambahuguna88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&animation=spin" /></a>
-  <a href="https://shivam26102022.github.io/Shivam-Portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=googlechrome&style=for-the-badge&animation=spin" /></a>
-</p>
+```bash
+# Languages
+Python 3.9/3.10 • SQL • Bash
 
-<hr/>
+# Frameworks & Libraries
+FastAPI • React • Plotly Dash • LangChain • Azure OpenAI
 
-<!-- =============================== QUOTE =============================== -->
-<p align="center" style="font-size: 1.1em; color:#34495E;">
-  <em>“Agentic Intelligence isn’t built — it’s orchestrated.”</em>
-</p>
+# Cloud & MLOps
+Azure • AWS • GCP (certified) • Azure ML Pipelines • GitHub Actions • Docker • Terraform
+
+# Data Engineering
+Snowflake • Snowpark • Pandas‑AI • Pandas • ETL • Mallion
